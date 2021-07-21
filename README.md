@@ -1,4 +1,5 @@
 Install node exporter with bash script
+
 Execute the following:
 
 sudo su
