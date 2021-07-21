@@ -8,4 +8,4 @@ wget -O - https://raw.githubusercontent.com/shivamgrover/install-node-exporter-b
 
 You can see all the server metrics by visiting your server URL on /metrics as shown below.
 
-http://<server-IP>:9100/metrics
+http://server-IP:9100/metrics
